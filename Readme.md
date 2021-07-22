@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Илья Петров](https://up.htmlacademy.ru/adaptive/23/user/1497659).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Беллавин](https://htmlacademy.ru/profile/bellavin).
 
 ---
 
